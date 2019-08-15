@@ -1,0 +1,12 @@
+/home/tadej/RiderProjects/Motorji/Motorji/bin/Debug/Motorji.exe
+/home/tadej/RiderProjects/Motorji/Motorji/bin/Debug/Motorji.pdb
+/home/tadej/RiderProjects/Motorji/Motorji/obj/Debug/Motorji.csprojAssemblyReference.cache
+/home/tadej/RiderProjects/Motorji/Motorji/obj/Debug/Motorji.csproj.CoreCompileInputs.cache
+/home/tadej/RiderProjects/Motorji/Motorji/obj/Debug/Motorji.exe
+/home/tadej/RiderProjects/Motorji/Motorji/obj/Debug/Motorji.pdb
+/home/tadej/Desktop/Motorji/Motorji/bin/Debug/Motorji.exe
+/home/tadej/Desktop/Motorji/Motorji/bin/Debug/Motorji.pdb
+/home/tadej/Desktop/Motorji/Motorji/obj/Debug/Motorji.csprojAssemblyReference.cache
+/home/tadej/Desktop/Motorji/Motorji/obj/Debug/Motorji.csproj.CoreCompileInputs.cache
+/home/tadej/Desktop/Motorji/Motorji/obj/Debug/Motorji.exe
+/home/tadej/Desktop/Motorji/Motorji/obj/Debug/Motorji.pdb
